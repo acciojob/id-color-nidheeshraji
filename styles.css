@@ -4,15 +4,17 @@
 	border-top:solid green;
 	border-bottom:solid green;
 	border-left:solid green;
-	bottom-rigth:solid green;
+	bottom-right:solid green;
 		border-width:3px;
+	border-left-color:green;
+	border-right-color:green;
 }
 #red{
 	background-color:red;
 	border-top:solid black;
 	border-bottom:solid black;
 	border-left:solid black;
-	bottom-rigth:solid black;
+	bottom-right:solid black;
 		border-width:3px;
 }
 #green{
@@ -20,6 +22,6 @@
 	border-top:solid yellow;
 	border-bottom:solid yellow;
 	border-left:solid yellow;
-	bottom-rigth:solid yellow;
+	bottom-right:solid yellow;
 		border-width:3px;
 }
