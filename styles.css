@@ -1,16 +1,25 @@
 /*  your css code here. If applicable */
 #yellow{
 	background-color:yellow;
-	border: solid green;
-	border-width:1px;
+	border-top:solid green;
+	border-bottom:solid green;
+	border-left:solid green;
+	bottom-rigth:solid green;
+		border-width:1px;
 }
 #red{
 	background-color:red;
-	border: solid black;
-	border-width:1px;
+	border-top:solid black;
+	border-bottom:solid black;
+	border-left:solid black;
+	bottom-rigth:solid black;
+		border-width:1px;
 }
 #green{
 	background-color:green;
-	border: solid yellow;
-	border-width:1px;
+	border-top:solid yellow;
+	border-bottom:solid yellow;
+	border-left:solid yellow;
+	bottom-rigth:solid yellow;
+		border-width:1px;
 }
